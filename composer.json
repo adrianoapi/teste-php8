@@ -1,0 +1,21 @@
+{
+    "name": "segpartnersbrasil/teste-php8",
+    "description": "Teste de Linguagem e Lógica de programação em linguagem PHP versão 8.0 +",
+    "type": "template",
+    "autoload": {
+        "psr-4": {
+            "SegPartners\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rodrigo Santos",
+            "email": "rodrigo@inovartecnologia.tech"
+        }
+    ],
+    "require": {
+        "php": "^8.0|^8.1",
+        "phpunit/phpunit": "^9.5"
+    }
+}

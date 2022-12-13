@@ -15,7 +15,10 @@
         }
     ],
     "require": {
-        "php": "^8.0|^8.1",
+        "php": "^8.0|^8.1"
+    },
+    "require-dev": {
+        "nunomaduro/collision": "^6.0",
         "phpunit/phpunit": "^9.5"
     }
 }

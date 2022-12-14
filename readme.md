@@ -1,5 +1,11 @@
 # Teste Programador PHP - SegPartners Brasil
 
+## Update 2022-12-14
+Foi adicionada a função NumberFormatter::DECIMAL, nativa do PHP,
+caso precise, é só habilitar no phpini.
+
+![myimage-alt-tag](lib_intl.jpg)
+
 ## Objetivo
 
 Desenvolver a classe `Calculo` dentro do Namespace `SegPartners`
